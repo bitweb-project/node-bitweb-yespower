@@ -1,7 +1,7 @@
 {
   'targets': [
     {
-      'target_name': 'bitweb-yespower-native',
+      'target_name': 'bitwebyespowernative',
       'sources': [ 'src/bitweb_yespower.cc',
                 'src/yespower-1.0.0/yespower.c',
                 'src/yespower-1.0.0/yespower-opt.c',
