@@ -1,4 +1,7 @@
 # node-biweb-yespower
+```
+https://www.npmjs.com/package/bitwebyespower
+```
 Yespower + Yescrypt time switch node lib. Return block hash not reversed as is!
 
 install
