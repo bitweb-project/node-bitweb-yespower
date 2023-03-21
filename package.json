@@ -1,5 +1,6 @@
 {
   "main": "lib/binding.js",
+  "browser": "lib/binding-browser.js",
   "dependencies": {
     "node-addon-api": "^1.1.0"
   },
@@ -8,14 +9,15 @@
   },
   "gypfile": true,
   "name": "bitwebyespower",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "YesPower and Yescryptr16 for Bitweb",
   "keywords": [
     "yespower",
-	"yescrypt",
-	"yescryptr16",
+    "yescrypt",
+    "yescryptr16",
     "bitweb"
   ],
   "author": "Mraksoll",
   "license": "MIT"
 }
+
