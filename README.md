@@ -1,4 +1,4 @@
-# node-biweb-yespower
+# node-bitweb-yespower
 ```
 https://www.npmjs.com/package/bitwebyespower
 ```
